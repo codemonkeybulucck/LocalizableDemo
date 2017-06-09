@@ -1,0 +1,9 @@
+/* 
+  Localizable.strings
+  LocalizableDemo
+
+  Created by Mtel on 2017/6/8.
+  Copyright © 2017年 Mtel. All rights reserved.
+*/
+"LoginButtonText"="登陆";
+"LabelText"="现在系统的语言是中文";

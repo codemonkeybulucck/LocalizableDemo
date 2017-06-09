@@ -1,0 +1,10 @@
+/* 
+  FollowAPPLanguage.strings
+  LocalizableDemo
+
+  Created by Mtel on 2017/6/8.
+  Copyright © 2017年 Mtel. All rights reserved.
+*/
+"followSystemButton"="追随系统语言切换";
+"followAPPButton"="追随APP语言切换";
+"contentLable" = "现在APP的语言是中文";
